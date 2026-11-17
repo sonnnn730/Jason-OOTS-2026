@@ -16,7 +16,7 @@
 		<div
 			class="mx-auto flex h-[60px] max-w-[1440px] items-center justify-between px-6 lg:h-[72px] lg:px-24"
 		>
-			<a href="/" class="text-[15px] font-semibold lg:text-base">nama.kamu</a>
+			<a href="/" class="text-[15px] font-semibold lg:text-base">Christian Jason Martono</a>
 
 			<div class="flex items-center gap-2 lg:gap-8">
 				<nav class="hidden items-center gap-7 lg:flex">
@@ -85,9 +85,9 @@
 	<!-- hero -->
 	<section class="mx-auto max-w-[1440px] px-6 pt-16 pb-14 lg:px-24 lg:pt-[120px]">
 		<h1
-			class="text-[62px] leading-[0.88] font-medium tracking-[-1.6px] lg:text-[232px] lg:tracking-[-9px]"
+			class="text-[62px] leading-[0.88] font-medium tracking-[-1.6px] lg:text-[100px] lg:tracking-[-9px]"
 		>
-			Nama Kamu
+			Christian Jason Martono
 		</h1>
 
 		<div class="mt-7 flex flex-col gap-6">
@@ -148,7 +148,7 @@
 
 			<div class="mt-7 flex flex-col items-start gap-8 lg:mt-10 lg:flex-row lg:gap-24">
 				<img
-					src={theme === 'dark' ? '/images/portrait-dark.png' : '/images/portrait-light.png'}
+					src={theme === 'dark' ? '/images/jason.png' : '/images/jason.png'}
 					alt="Foto profil"
 					class="h-[428px] w-full object-cover lg:h-[525px] lg:w-[420px]"
 				/>
