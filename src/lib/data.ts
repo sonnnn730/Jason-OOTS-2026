@@ -8,11 +8,11 @@ export type Project = {
 
 export const projects: Project[] = [
 	{
-		title: 'Sistem Absensi Kelas',
-		description: 'Aplikasi pencatatan kehadiran siswa dengan rekap otomatis per bulan.',
+		title: 'Tenda Pecel Lele',
+		description: 'Game horor simulasi manajemen warung berlatar tenda pecel lele malam hari dengan sentuhan mistis khas Indonesia.',
 		stack: 'SvelteKit',
 		year: 2026,
-		href: 'https://github.com/nama-kamu/absensi'
+		href: 'https://github.com/sonnnn730/TendaPecelLelee'
 	},
 	{
 		title: 'Landing Page UKM',
