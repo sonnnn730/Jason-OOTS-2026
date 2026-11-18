@@ -119,12 +119,12 @@
 	<!-- band -->
 	<div class="border-t border-line">
 		<img
-			src={theme === 'dark' ? '/images/band-dark.png' : '/images/band-light.png'}
+			src={theme === 'dark' ? '/images/band.png' : '/images/band.png'}
 			alt="Foto kegiatan lab RPL"
 			class="h-[220px] w-full object-cover lg:h-[420px]"
 		/>
 		<div class="mx-auto max-w-[1440px] px-6 py-4 lg:px-24">
-			<p class="font-mono text-[11px] tracking-[1.1px] text-muted">LAB RPL — SMK NEGERI 1 · 2026</p>
+			<p class="font-mono text-[11px] tracking-[1.1px] text-muted">CREATIVE WORKSPACE</p>
 		</div>
 	</div>
 
@@ -337,15 +337,15 @@
 				class="flex flex-col items-start gap-4 lg:flex-row lg:items-center lg:justify-between lg:gap-6"
 			>
 				<a href="mailto:kamu@email.com" class="font-mono text-xs tracking-[1.1px] text-primary">
-					kamu@email.com
+					christiaaaanjason@email.com
 				</a>
 				<div class="flex items-center gap-6">
 					<a href="#proyek" class="font-mono text-[11px] tracking-[1.1px] text-muted">PROYEK</a>
 					<a
-						href="https://github.com/nama-kamu"
+						href="https://github.com/sonnnn730"
 						class="font-mono text-[11px] tracking-[1.1px] text-muted">GITHUB</a
 					>
-					<a href="mailto:kamu@email.com" class="font-mono text-[11px] tracking-[1.1px] text-muted">
+					<a href="mailto:christiaaaanjason@email.com" class="font-mono text-[11px] tracking-[1.1px] text-muted">
 						EMAIL
 					</a>
 				</div>
